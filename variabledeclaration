@@ -1,0 +1,11 @@
+# Declare a variable named 't' and assign the value 10 to it
+t = 10
+
+# Print the value of 't'
+print("Value of t:", t)
+
+# Reassign a new value to 't'
+t = 20
+
+# Print the New value of 't'
+print("New value of t:", t)
